@@ -99,6 +99,10 @@ h1 {
 *
 *
 **/
+.circles {
+	margin-top: 10vh;
+	margin-bottom: 10vh;
+}
 
 .skills h4 {
 	text-align: center;
@@ -142,6 +146,13 @@ h1 {
 	font-size: 1.2rem;
 	margin-bottom: 20px;
 }
+/* PORTFOLIO */
+
+
+
+
+
+
 
 
 /* END OF SKILLS */
@@ -206,5 +217,9 @@ body .arrow{
 .portfolio .thumb .text-content p {
 	font-size: 0.9rem;
 	margin-bottom: 25px;
+}
+
+.contact button {
+	margin-bottom: 20px;
 }
 
